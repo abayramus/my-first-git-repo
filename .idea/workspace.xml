@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="1704ce00-9cb8-4196-8b30-cc2878a69d6d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../2021-QA/com.techproedjavaproject-2021-spring/.idea/com.techproedjavaproject-2021-spring.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../IdeaProjects.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JDBCProject/JDBCProject.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.techproed-pom/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.techproed-pom/configuration.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.techproed-pom/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.techproed-pom/src/test/java/com/techproed/homework/HW_SignIn_Practice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.techproed-pom/src/test/java/com/techproed/tests/Day09_FirstDriverTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.techproed-pom/src/test/java/com/techproed/tests/Day10_TestAddressLoginTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.techproed-pom/src/test/java/com/techproed/utilities/Driver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.techproed-pom1/com.techproed-pom1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.techproed-pom1/configuration.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.techproed-pom1/src/test/java/com/techproed/extentreports/ExtentReportsTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.techproed-pom1/src/test/java/com/techproed/tests/JavascriptExecutorTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.techproed-pom1/src/test/java/com/techproed/utilities/ReusableMethods.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.techproed/com.techproed.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.techproedjavaproject-2021-spring/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.techproedjavaproject-2021-spring/com.techproedjavaproject-2021-spring.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.techproedjavaproject-2021-spring/git status" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.techproedjavaproject/com.techproedjavaproject.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cucumber-framework-21/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cucumber-framework-21/configuration.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cucumber-framework-21/cucumber-framework-21.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cucumber-framework-21/src/test/java/runners/Runner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cucumber-framework-21/src/test/java/utilities/ConfigReader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cucumber-framework-21/src/test/java/utilities/Driver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cucumber-framework-21/src/test/java/utilities/ReusableMethods.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jdbc_framework/jdbc_framework.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jdbc_framework/src/test/java/com/techproed/Bonus.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jdbc_framework/src/test/java/com/techproed/CreateData4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jdbc_framework/src/test/java/com/techproed/UpdateData3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jdbc_review/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jdbc_review/jdbc_review.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jdbc_review/src/test/java/tests/CreateData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jdbc_review/src/test/java/tests/DBUtilsTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jdbc_review/src/test/java/tests/ReadData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jdbc_review/src/test/java/tests/UpdateData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../myJP/myJP.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../my_jdbc_project/my_jdbc_project.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mycucumberframework3/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mycucumberframework3/configuration.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mycucumberframework3/src/test/java/pages/DataTablePage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mycucumberframework3/src/test/java/pages/GooglePage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mycucumberframework3/src/test/java/runners/Runner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mycucumberframework3/src/test/java/stepdefinitions/DataTablesStepDefinition.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mycucumberframework3/src/test/java/stepdefinitions/GoogleSearchStepDefinitions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mycucumberframework3/src/test/java/utilities/ConfigReader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mycucumberframework3/src/test/java/utilities/Driver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mycucumberframework3/src/test/java/utilities/ReusableMethods.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mycucumberframework3/src/test/resources/features/US1000 Google search test.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mycucumberframework3/src/test/resources/features/US1001_user_should_add_data.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mycucumberproject/configuration.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mycucumberproject/src/test/java/runners/Runner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mycucumberproject/src/test/java/utilities/ConfigurationReader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mycucumberproject/src/test/java/utilities/Driver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mycucumberproject/src/test/resources/features/day19_employee_login.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mycucumberproject/src/test/resources/features/day19_parametrizing_feature_file_using_string.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mycucumberproject/src/test/resources/features/day19_scenario_outline.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mycucumberproject/src/test/resources/features/firstfeaturefile.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mycuke/mycuke.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../myjunitproject-21/myjunitproject-21.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../myjunitproject-21/src/test/java/com/techproed/Day06_JavaFaker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../myjunitproject35_36.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mymavenproject1/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mymavenproject1/mymavenproject1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mymavenproject1/src/test/java/com/techproed/AssertionAnnotation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mymavenproject1/src/test/java/com/techproed/BeforeAfterMethods.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mymavenproject1/src/test/java/com/techproed/CheckBox.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mymavenproject1/src/test/java/com/techproed/FirstJUnitClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mymavenproject1/src/test/java/com/techproed/FirstMavenClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mymavenproject1/src/test/java/com/techproed/RadioButton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mymavenproject1/src/test/java/com/techproed/SignInHomework.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mytestNGproject_1/mytestNGproject_1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testNGframework/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testNGframework/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testNGframework/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testNGframework/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testNGframework/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testNGframework/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testNGframework/src/test/java/com/techproed/excelautomation/ReadExcel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testNGframework/src/test/java/com/techproed/tests/AlertTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testNGframework/src/test/java/com/techproed/tests/DependsOnMethods.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testNGframework/src/test/java/com/techproed/tests/DropDown.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testNGframework/src/test/java/com/techproed/tests/SoftAssertTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testNGframework/src/test/java/com/techproed/tests/TestNGAnnotations.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testNGframework/testNGframework.iml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$APPLICATION_HOME_DIR$/plugins/maven/lib/maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="26vyjlLs2DNZ1GWO6U1Jlomg7XL" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1704ce00-9cb8-4196-8b30-cc2878a69d6d" name="Default Changelist" comment="" />
+      <created>1648318491657</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1648318491657</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="664" y="268" key="SettingsEditor" timestamp="1648319805679">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state x="664" y="268" key="SettingsEditor/2560.25.1920.1055/0.0.2560.1440@0.0.2560.1440" timestamp="1648319805679" />
+    <state x="861" y="324" width="838" height="1032" key="search.everywhere.popup" timestamp="1648319811666">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state x="861" y="324" width="838" height="1032" key="search.everywhere.popup/2560.25.1920.1055/0.0.2560.1440@0.0.2560.1440" timestamp="1648319811666" />
+  </component>
+</project>
