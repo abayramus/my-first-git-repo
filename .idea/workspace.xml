@@ -158,16 +158,19 @@
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <option name="INCLUDE_TEXT_INTO_SHELF" value="false" />
+  </component>
   <component name="WindowStateProjectService">
-    <state x="715" y="288" key="SettingsEditor" timestamp="1648914650328">
+    <state x="715" y="288" key="SettingsEditor" timestamp="1648915728147">
       <screen x="69" y="25" width="2491" height="1415" />
     </state>
     <state x="664" y="268" key="SettingsEditor/2560.25.1920.1055/0.0.2560.1440@0.0.2560.1440" timestamp="1648319805679" />
-    <state x="715" y="288" key="SettingsEditor/2560.25.1920.1055/69.25.2491.1415@69.25.2491.1415" timestamp="1648914650328" />
-    <state x="907" y="343" width="838" height="1015" key="search.everywhere.popup" timestamp="1648914639867">
+    <state x="715" y="288" key="SettingsEditor/2560.25.1920.1055/69.25.2491.1415@69.25.2491.1415" timestamp="1648915728147" />
+    <state x="907" y="343" width="838" height="1015" key="search.everywhere.popup" timestamp="1648915705860">
       <screen x="69" y="25" width="2491" height="1415" />
     </state>
     <state x="861" y="324" width="838" height="1032" key="search.everywhere.popup/2560.25.1920.1055/0.0.2560.1440@0.0.2560.1440" timestamp="1648319811666" />
-    <state x="907" y="343" width="838" height="1015" key="search.everywhere.popup/2560.25.1920.1055/69.25.2491.1415@69.25.2491.1415" timestamp="1648914639867" />
+    <state x="907" y="343" width="838" height="1015" key="search.everywhere.popup/2560.25.1920.1055/69.25.2491.1415@69.25.2491.1415" timestamp="1648915705860" />
   </component>
 </project>
