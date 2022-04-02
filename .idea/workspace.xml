@@ -52,6 +52,8 @@
       <change afterPath="$PROJECT_DIR$/../jdbc_review/src/test/java/tests/ReadData.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../jdbc_review/src/test/java/tests/UpdateData.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../myJP/myJP.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SecondJavaClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ThirdJavaClass.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../my_jdbc_project/my_jdbc_project.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../mycucumberframework3/.gitignore" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../mycucumberframework3/configuration.properties" afterDir="false" />
@@ -100,6 +102,8 @@
       <change afterPath="$PROJECT_DIR$/../testNGframework/src/test/java/com/techproed/tests/SoftAssertTest.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../testNGframework/src/test/java/com/techproed/tests/TestNGAnnotations.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../testNGframework/testNGframework.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -114,7 +118,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
@@ -124,7 +128,9 @@
     </option>
   </component>
   <component name="ProjectId" id="26vyjlLs2DNZ1GWO6U1Jlomg7XL" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
   </component>
